@@ -16,6 +16,10 @@
     },
     "slug": {
       "type": "string"
+    },
+    "content": {
+      "type": "customField",
+      "customField": "plugin::ckeditor5.CKEditor"
     }
   }
 }
