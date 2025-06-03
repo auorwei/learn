@@ -4,4 +4,10 @@ export default ({ env }) => ({
   app: {
     keys: env.array('APP_KEYS'),
   },
+
+  admin: {
+    info: {
+      name: 'My Strapi Admin - Development Version',
+    },
+  },
 });

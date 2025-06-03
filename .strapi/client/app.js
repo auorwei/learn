@@ -12,5 +12,3 @@ renderAdmin(document.getElementById("strapi"), {
     "users-permissions": usersPermissions,
   },
 });
-
-// test
